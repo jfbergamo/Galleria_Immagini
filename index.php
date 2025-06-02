@@ -229,7 +229,7 @@ function liked($id) {
                     <div class="modal-body container text-center">
                         <h2 class="mb-3">Carica un file</h2>
                         <input type="file" name="file" required>
-                        <textarea class="mt-3" name="descrizione" placeholder="Descrizione"></textarea>
+                        <textarea class="mt-3 form-control" name="descrizione" placeholder="Descrizione"></textarea>
                         <p class="mt-3">
                             <input type="hidden" name="upload">
                             <button type="submit"class="btn btn-primary">Carica</button>

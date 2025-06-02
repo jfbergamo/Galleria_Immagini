@@ -46,6 +46,7 @@ include_once "utils.php";
     <title>Galleria</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <!-- ^ I fogli di stile utilizzati sono parte del framework Bootstrap5 (https://getbootstrap.com/) -->
+    <link rel="icon" type="x-icon" href="favicon.ico">
 </head>
 <body>
     <div class="container text-center my-4 px-5">
