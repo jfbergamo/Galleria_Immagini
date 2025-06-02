@@ -9,6 +9,7 @@ L'applicazione è fornita di un sistema di autenticazione per permettere agli ut
 - Nella pagina è presente una navbar in cui è possibile recarsi alla schermata di login o di registrazione. L'utente loggato vedrà nella stessa navbar un bottone per eseguire il logout e uno per caricare un'immagine.
 	![Navbar](https://media.discordapp.net/attachments/855422280125251636/1379039162921128046/image.png?ex=683ec9cd&is=683d784d&hm=ce4b5a42f4ee4d48ee4d33199038e093a514c33b8ee6eac09e44c4dc0e30c36d&=&format=webp&quality=lossless&width=427&height=137)
 - Il form di caricamento dell'immagine compare attraverso una finestra modale dinamica creata col framework Bootstrap5.
+
 ![Modale caricamento](https://media.discordapp.net/attachments/855422280125251636/1379040168975274035/image.png?ex=683ecabd&is=683d793d&hm=ec27fc9189c9369c6af332f27f3964d86568fd459a9b9ca1045a5db771251a4d&=&format=webp&quality=lossless&width=702&height=385)
 - L'utente loggato può caricare immagini, mettere e rimuovere like dalle immagini e rimuovere le immagini caricate da lui
 ![Pagina principale loggata](https://media.discordapp.net/attachments/855422280125251636/1379040643069775963/image.png?ex=683ecb2e&is=683d79ae&hm=cfda2dfdfdcd46a02ff98129940441bc82943c48965c6597b7c9773271b8f4dd&=&format=webp&quality=lossless&width=1091&height=614)
