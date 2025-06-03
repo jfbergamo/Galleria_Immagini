@@ -1,3 +1,5 @@
+> Anno scolastico 2024-2025
+> Bergamasco Jacopo, Classe 5AIA, ITST J.F. Kennedy, Pordenone
 # GALLERIA IMMAGINI
 
 Web application scritta in [PHP](https://www.php.net/) che presenta una galleria di immagini caricabili dagli utenti.
@@ -26,5 +28,9 @@ L'applicazione è fornita di un sistema di autenticazione per permettere agli ut
 
 ![Pagine di accesso](https://media.discordapp.net/attachments/855422280125251636/1379042021368660069/image.png?ex=683ecc77&is=683d7af7&hm=ffedca483f50de24591bd59f53017e29affc551089fc83de3c17f867500f104b&=&format=webp&quality=lossless&width=1091&height=477)
 
+## Schema concettuale del database
+
+![Schema concettuale](https://media.discordapp.net/attachments/855422280125251636/1379461482185494600/scheme.png?ex=6840531e&is=683f019e&hm=a43a89e75438da7322455dbf0f04cd8ecdd9ea5a45082943c8d73b897308fe73&=&format=webp&quality=lossless&width=1091&height=536)
+
 ## Installazione
-Per hostare il sito è necessario inizializzare il database. Il DBMS utilizzato nell'applicazione è [MariaDB](https://mariadb.org/), tutte le definizioni delle strutture dati sono contenute nel file `init.sql`, eseguendo quel file si inizializzerà il database.
+Per hostare il sito è necessario inizializzare il database. Il DBMS utilizzato nell'applicazione è [MySQL](https://www.mysql.com/), tutte le definizioni delle strutture dati sono contenute nel file `init.sql`, eseguendo quel file si inizializzerà il database.

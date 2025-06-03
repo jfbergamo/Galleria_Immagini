@@ -1,2 +1,5 @@
 uploads/*
 !uploads/placeholder.png
+*.svg
+*.png
+*.dia~
