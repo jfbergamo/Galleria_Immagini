@@ -1,5 +1,6 @@
-uploads/*
-!uploads/placeholder.png
 *.svg
 *.png
 *.dia~
+uploads/*
+!assets/*.png
+!uploads/placeholder.png
